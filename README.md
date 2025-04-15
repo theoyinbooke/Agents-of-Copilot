@@ -35,8 +35,8 @@ Our collective goal is to accelerate innovation in the Copilot ecosystem by shar
 
 ## 📣 Connect
 
-- Join our [Discord community](https://discord.gg/example)
-- Follow updates on [Twitter](https://twitter.com/example)
+- For upcoming Events [Our Website](https://agentsofcopilot.com)
+- Follow updates on [Twitter](https://x.com/i/communities/1912192867373658139)
 - Share your projects using the hashtag #AgentsOfCopilot
 
 ---
